@@ -1,3 +1,4 @@
 # GitDemo
-This is a GIT thing
-hello this is me this is just me trying to learn git 
+This Is A GIT Thing
+<br>
+Hello this is me this is just me trying to learn git 
